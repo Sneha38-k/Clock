@@ -1,0 +1,40 @@
+div {
+    float: left;
+    }
+#bg
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#reset
+{
+    margin-top: 50px;
+    margin-left: 1200px;
+    border-width: 5px;
+    border-style: grooves;
+    background-color: yellow;
+    text-decoration-style: dotted;
+}
+
+#number1
+{   margin-left: 100px;
+    border-width: 5px;
+    border-style: grooves;
+    background-color: yellow;
+    text-decoration-style: dotted;
+}
+
+#tambola
+{
+    margin-left: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(71, 203, 255);
+    text-decoration-style: dotted;
+}
+
+td
+{ 
+    color:white;
+}
